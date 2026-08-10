@@ -1,0 +1,33 @@
+9] Create a class named Student containing student ID and name. Create an object and display the student details.
+
+10] Create an Employee class with employee ID, name, designation, and salary. Create multiply objects and display                 	their details.
+
+11] Create a Rectangle class with length and width as data members. Implement methods to calculate are and perimeter.
+
+12] Create a Circle class with radius as a data member and methods to calculate area and circumference.
+
+13] Create a Bank Account class with account number, account holder, and balance. Implement methods for deposit, withdrawal, and balance inquiry.
+
+14] Create a Products class with product ID, name, price, and quantity. Calculate the total cost of purchased products.
+
+15] Create a student class containing marks of five subjects.
+
+16] Create a Car class with brand, model, manufacturing year, and price. Display the details pf multiple cars.
+
+17] Create a Book class with title, author, publisher, and price. Display book details using objects.
+
+18] Create a Mobile class with brand, model, RAM, storage, and price. Display the specifications of different mobile phones.
+
+19] Create a Library Book class with book ID, title, author, and availability status. Display the information of available books.
+
+20] create a calculator class containing methods for , addition , subtraction , multiplication, and division. INVOKE THIS METHOD USING AN OIBJECT.
+
+21] write a java program that passes one objects to other methods and display in data.
+
+22] WAJP that returns an object from a method and display it contents.
+
+23] Create array of students objects and display the details of all students.
+
+24] Create two students objects and compare them based on their marks using a user - defined method.
+
+25] Develop a menu-driven inventory management program using classes and objects to add, display, and search products details.
